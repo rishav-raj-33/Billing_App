@@ -27,12 +27,7 @@ function App() {
           setDarkTheme(!darkTheme);
         }} />
 
-        <Routes>
-          <Route path='/' element={<Starter />}></Route>
 
-
-
-        </Routes>
 
 
 
