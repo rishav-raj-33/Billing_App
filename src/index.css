@@ -1,0 +1,25 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+:root {
+    --bg: #fff;
+    --color: #1b1f23;
+    --toggle: #111;
+    --scard: #d4d4d4;
+    --shawdow1: rgba(0, 0, 0, 0.432);
+}
+
+
+[data-theme="dark"] {
+
+    --bg: #1b1f23;
+    --color: #fff;
+    --toggle: #fff;
+    --scard: #1b1f23;
+    --shawdow1:rgba(255, 255, 255, 0.315);
+
+}
+
