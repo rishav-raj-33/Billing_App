@@ -13,21 +13,21 @@ function Slider() {
             </div>
             <div className="carousel-inner">
                 <div className="carousel-item active">
-                    <img src="../../../public/slider-2.jpg" className="d-block w-100" alt="Tax-banner" />
+                    <img src="/slider-2.jpg" className="d-block w-100" alt="Tax-banner" />
                     <div className="carousel-caption">
                         <h5>Tax</h5>
                         <p>Save Time and Effort with Automated Tax Calculations</p>
                     </div>
                 </div>
                 <div className="carousel-item">
-                    <img src="../../../public/slider-3.jpg" className="d-block w-100" alt="Automation-banner" />
+                    <img src="/slider-3.jpg" className="d-block w-100" alt="Automation-banner" />
                     <div className="carousel-caption">
                         <h5>Automation</h5>
                         <p>Streamline Your Invoicing Process with Automation</p>
                     </div>
                 </div>
                 <div className="carousel-item">
-                    <img src="../../../public/slider-1.jpg" className="d-block w-100" alt="Business-banner" />
+                    <img src="/slider-1.jpg" className="d-block w-100" alt="Business-banner" />
                     <div className="carousel-caption">
                         <h5>Business</h5>
                         <p>Professional Invoices That Reflect Your Business</p>

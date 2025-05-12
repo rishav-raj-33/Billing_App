@@ -11,7 +11,7 @@ function BenefitSection() {
     let c6 = "Invoices serve as crucial evidence of payment. When a customer pays an invoice, the paid invoice acts as a tangible proof that the transaction has been completed. This is especially important for businesses to maintain accurate financial records and for customers to protect their rights in case of disputes or warranty claims.";
     let heading = ["Warranty Claims", "Clear and Detailed Record", "Customer Relationship Management", "Payment Tracking", "Legal Record", "Proof of Payment"];
     let content = [c1, c2, c3, c4, c5, c6];
-    let img = ["../../../public/card-1.jpg", "../../../public/card-2.jpg", "../../../public/card-3.jpg", "../../../public/card-4.jpg", "../../../public/card-5.jpg", "../../../public/card-6.jpg"];
+    let img = ["../../../public/card-1.jpg", "/card-2.jpg", "/card-3.jpg", "/card-4.jpg", "/card-5.jpg", "/card-6.jpg"];
     let links = ["https://www.google.com/search?q=whatisWarrantyClaimsininvoice", "https://www.google.com/search?q=whatisClearandDetailedRecordininvoice", "https://www.google.com/search?q=whatisCustomerRelationshipManagementininvoice", "https://www.google.com/search?q=whatisPaymentTrackingininvoice", "https://www.google.com/search?q=whatisLegalRecordininvoice", "https://www.google.com/search?q=whatisProofofPaymentininvoice"];
 
       
